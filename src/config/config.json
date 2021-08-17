@@ -1,0 +1,7 @@
+{
+"project_name": "a3lab-streamlit",
+            "env_path": "a3lab-streamlit/a3lab-streamlit_env",
+            "files_path": "../data/raw/",
+            "key": "<<<<key>>>>",
+            "user": "<<<<user>>>>"
+            }
