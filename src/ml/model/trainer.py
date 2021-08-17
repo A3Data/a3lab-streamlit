@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 from ml.model.wrapper import Wrapper
 from ml.model.metrics import Metrics
-import statsmodels.formula.api as smf
 from sklearn.model_selection import train_test_split, LeaveOneOut
 import numpy as np
 
